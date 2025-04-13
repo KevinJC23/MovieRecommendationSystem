@@ -1,0 +1,7 @@
+torch
+gradio==4.44.1
+transformers==4.43.1
+rapidfuzz
+scikit-learn
+pandas
+numpy
